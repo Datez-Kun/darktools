@@ -12,3 +12,5 @@ python2 dark*
 # ALL PASSWORD IN THIS TOOL
 <br>1,2,3. EXISTS(ADA DIDALAM)</br>
 14. yogawira
+
+Check <a href="http://redbotermux.blogspot.com">my blog</a>
