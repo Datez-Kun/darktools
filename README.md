@@ -8,5 +8,7 @@ pkg install python python2 git;
 git clone https://github.com/R3DB0T/darktools;
 cd darktools;
 python2 dark*
-# BERI STAR QMAK
-# SUBSCRIBE CHANNEL R3DB0T
+
+# ALL PASSWORD IN THIS TOOL
+1,2,3. EXISTS(ADA DIDALAM)
+14. yogawira
